@@ -73,4 +73,14 @@ To run this project, follow these setup steps in UiPath Orchestrator:
 2.  **Run the Performer**:
     - Open the Performer project in UiPath Studio.
     - Run the `Main.xaml` file.
-    - The robot will start getting and processing invoices from the queue one by one until no items are left. You can also run this process directly from Orchestrator.
+    - The robot will start getting and processing invoices from the queue one by one until no items are left. You can also run this process directly from Orchestrator. 
+
+## Citation & License
+Please cite as: Molina Delgado, M. (2025). AI Agents & Automation: Complement or Competition for IT Ops?
+
+## Citation & License
+Please cite as: Molina Delgado, M. (2025). RPA Invoice Accounting Automation.
+
+## Author & Mentor
+**Author** Miqueas Molina Delgado 
+**Tutor:** Andrés Díaz Romero
