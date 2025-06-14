@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BigZOLbjS0iYcxlyJi3Xmw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="705, 204, 1150, 23" ElementType="InputBox" FullSelectorArgument="&lt;wnd aaname='Mail - Miqueas - Outlook - Web content' cls='Chrome_WidgetWin_1' title='Mail - Miqueas - Outlook' /&gt;&lt;ctrl name='Mail - Miqueas - Outlook' role='document' /&gt;&lt;ctrl name='Reading Pane' role='grouping' /&gt;&lt;ctrl name='To' role='editable text' /&gt;" Guid="5c626c81-b01d-4794-af22-10921aca8617" ScopeSelectorArgument="&lt;wnd app='olk.exe' appid='Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows' title='Mail - Miqueas - Outlook' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="9038c447f1e74fe85ac6cd4106d52aeb.png" xmlns="">0mPawQGlaf02aEKE6Tpt7QA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

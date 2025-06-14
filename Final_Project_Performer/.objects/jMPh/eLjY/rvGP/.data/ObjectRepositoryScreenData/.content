@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="DhRWwhAhoUu_IiA82kH2KQ" Reference="9mj7wxFBpEOA6KG7HfSCVw/rvGP_2seEUuQLi_eDh1yDQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Edge" ContentHash="U4vJLg0wtU2K90O8qCyz1w" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABsSURBVDhPY2CgF/i/beZ/dAyRIAKA1CVIM/z/6YrAcAMaGhr+v3z5EiceXAYgY5wGgABIDBmDFeIC2AxAV/P/5c7/6BguSYwBPQkM//+fDEBgqhuAjlF0EzIAG0D3L8kGYGhAx0PDAHwY2QAA3mDfRqdnl80AAAAASUVORK5CYII=" Reference="9mj7wxFBpEOA6KG7HfSCVw/rvGP_2seEUuQLi_eDh1yDQ" Selector="&lt;html app='msedge.exe' title='Sede Electrónica del Catastro - Búsqueda de inmuebles' /&gt;" Url="[in_URL]" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="b7840a3ce4d0b9f2867d51d99b8feb03.jpg" xmlns="">07ynbkikPU0uwxnn3Rlad5Q</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsVariable="False" Name="in_URL" />
+    </scg:List>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

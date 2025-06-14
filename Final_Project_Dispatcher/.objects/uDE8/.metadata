@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Sede Electrónica del Catastro - Inicio",
+  "Type": "App",
+  "Id": "uDE8QZB3Q0aG8KK8Efw1_w",
+  "Reference": "sUif-TArzUKQc-jN8Xx01Q/uDE8QZB3Q0aG8KK8Efw1_w",
+  "Created": "2025-05-12T11:03:16.1748814Z",
+  "Updated": "2025-05-12T11:03:16.1748814Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

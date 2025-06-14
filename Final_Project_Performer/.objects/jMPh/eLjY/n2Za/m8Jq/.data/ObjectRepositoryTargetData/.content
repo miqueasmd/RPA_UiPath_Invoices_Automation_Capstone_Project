@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t4IJh3jDg0Ss1NF5G5YJQA" Reference="9mj7wxFBpEOA6KG7HfSCVw/m8JqQ_loPUOa2JZkwAN0zQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="www1.sedecatastro.gob.es/CYCBienInmueble/OVCBusqueda.aspx" CVScreenId="e4e89b8b-8a49-4b26-8044-1b23d224223e" DesignTimeRectangle="261, 517, 611, 15" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='DivErrorRC' tag='SPAN' aaname='La referencia catastral es un código de 20 números y/o letras. Deberá introducir al menos 7 de ellas.' /&gt;" Guid="4ebd9fa5-c077-4f40-a5d9-b501d7ed60ed" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Sede Electrónica del Catastro - Búsqueda de inmuebles' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="a135423f75f0868fcdf609bc6ebc2a19.png" xmlns="">0ljtKQ_gB80y-mfs3nu8QLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

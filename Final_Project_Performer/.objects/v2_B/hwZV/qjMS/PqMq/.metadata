@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CL ORENSE 19328630 VILL…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "PqMqhLh_AUqOYTD2ZzqDIQ",
+  "Reference": "9mj7wxFBpEOA6KG7HfSCVw/PqMqhLh_AUqOYTD2ZzqDIQ",
+  "ParentRef": "9mj7wxFBpEOA6KG7HfSCVw/qjMSW31RXkyBgBlWJiccsg",
+  "Created": "2025-05-19T16:28:26.5034026Z",
+  "Updated": "2025-05-19T16:28:26.5034026Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

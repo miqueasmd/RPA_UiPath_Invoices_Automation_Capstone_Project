@@ -1,0 +1,14 @@
+﻿{
+  "Name": "La referencia catastral…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "m8JqQ_loPUOa2JZkwAN0zQ",
+  "Reference": "9mj7wxFBpEOA6KG7HfSCVw/m8JqQ_loPUOa2JZkwAN0zQ",
+  "ParentRef": "9mj7wxFBpEOA6KG7HfSCVw/n2ZaLRBLPk-tQ2CoXgIJBQ",
+  "Created": "2025-05-19T21:37:23.9268524Z",
+  "Updated": "2025-05-19T21:37:23.9268524Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

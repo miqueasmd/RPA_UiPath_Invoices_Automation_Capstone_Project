@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Sede Electrónica del Catastro - Búsqueda de inmuebles",
+  "Type": "App",
+  "Id": "jMPhsVjhgUO1MChS848aKw",
+  "Reference": "9mj7wxFBpEOA6KG7HfSCVw/jMPhsVjhgUO1MChS848aKw",
+  "Created": "2025-05-16T10:54:24.3724831Z",
+  "Updated": "2025-05-16T10:54:24.3724831Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

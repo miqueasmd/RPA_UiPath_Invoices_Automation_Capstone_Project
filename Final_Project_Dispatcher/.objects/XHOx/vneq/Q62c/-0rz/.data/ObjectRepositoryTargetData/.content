@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oj41t8cMnkG6ErwMycibfQ" Reference="sUif-TArzUKQc-jN8Xx01Q/-0rzRa4xykm6kjMtDij8tw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" DesignTimeRectangle="309, 592, 248, 26" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Download Vendor List' parentid='dashmenu' tag='A' innertext='Download Vendor List' parentclass='dropdown-menu dropdown-content rightMenu' /&gt;" Guid="b876411a-bdfe-43a9-9e7d-f4ae38e58a9e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="f3841c2bb96deed4f5fab8a99237ad4b.png" xmlns="">0rmysKGonjk6GeeoH9t-nxQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

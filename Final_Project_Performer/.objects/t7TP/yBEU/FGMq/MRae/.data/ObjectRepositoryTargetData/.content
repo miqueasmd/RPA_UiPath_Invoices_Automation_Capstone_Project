@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5e0aruZYNEG1BxGYf0tgnw" Reference="9mj7wxFBpEOA6KG7HfSCVw/MRaeFgbzzk2r9BuHS5TlpA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/invoices/search-by-vendor/FR065748" CVScreenId="5b4075fe-f0f3-4d9b-97cc-f5163d5a2a7a" DesignTimeRectangle="484, 375, 968, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Please review the invoices that match your criteria as they are listed below.' visibleinnertext='Please review the invoices that match your criteria as they are listed below.' /&gt;" Guid="42921d17-d651-4f7b-a7af-73db8fba2866" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Search Results' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="5a10b6d10cf8ba7aa1c70d887e02ce87.png" xmlns="">02M0oJKeux0qzmIEO2-SuXw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

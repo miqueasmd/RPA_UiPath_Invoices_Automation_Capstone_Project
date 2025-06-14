@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3IKQ8WQ1_0-bjtMKDjMe_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7762b4b9-8bb7-46d7-8ce1-f714e7606efc" CvElementArea="67, 93, 142, 36" CvType="InputBox" DesignTimeRectangle="68, 95, 111, 32" ElementType="Button" FuzzySelectorArgument="&lt;wnd aaname='Mail - Miqueas - Outlook - Web content' cls='Chrome_WidgetWin_1' title='Mail - Miqueas - Outlook' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;ctrl name='Mail - Miqueas - Outlook' role='document' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Ribbon' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Home' role='property page' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Move &amp;amp; delete' role='grouping' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='New mail' role='menu button' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='New mail' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:fulltext='New mail Create a new email message. (Ctrl+N / Ctrl+Shift+M)' /&gt;" Guid="4e423898-ac1d-4907-ac3a-9f2a3217ecaa" ScopeSelectorArgument="&lt;wnd app='olk.exe' appid='Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows' title='Mail - Miqueas - Outlook' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7762b4b9-8bb7-46d7-8ce1-f714e7606efc" DesignTimeRectangle="107, 100, 58, 20" ElementType="Text" FullSelectorArgument="&lt;wnd aaname='Mail - Miqueas - Outlook - Web content' cls='Chrome_WidgetWin_1' title='Mail - Miqueas - Outlook' /&gt;&lt;ctrl name='Mail - Miqueas - Outlook' role='document' /&gt;&lt;ctrl name='Ribbon' role='pane' /&gt;&lt;ctrl name='Home' role='property page' /&gt;&lt;ctrl name='Move &amp;amp; delete' role='grouping' /&gt;&lt;ctrl name='New mail' role='menu button' /&gt;&lt;ctrl name='New mail' role='push button' /&gt;&lt;ctrl name='New mail' role='text' /&gt;" Guid="d633934a-d79d-440f-8917-33694c145f23" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="424477fa36d9dc9e30b177ff8f90bab9.png" xmlns="">0TxXG5xPf8Um6RQGBAi_yfg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

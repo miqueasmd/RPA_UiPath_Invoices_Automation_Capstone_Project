@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Sede Electrónica del Catastro - Inicio",
+  "Type": "Screen",
+  "Id": "6EQk0dfrmEO1J3lLoYx_EQ",
+  "Reference": "sUif-TArzUKQc-jN8Xx01Q/6EQk0dfrmEO1J3lLoYx_EQ",
+  "ParentRef": "sUif-TArzUKQc-jN8Xx01Q/dEX8kOLraU2-DDbvTv4-1g",
+  "Created": "2025-05-12T11:03:16.2113157Z",
+  "Updated": "2025-05-12T11:03:16.2113157Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

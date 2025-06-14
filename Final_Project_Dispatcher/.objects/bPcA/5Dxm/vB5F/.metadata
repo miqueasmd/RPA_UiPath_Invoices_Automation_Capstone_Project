@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Mail - Miqueas - Outlook",
+  "Type": "Screen",
+  "Id": "vB5FBteKd0eTshBlPM02jQ",
+  "Reference": "sUif-TArzUKQc-jN8Xx01Q/vB5FBteKd0eTshBlPM02jQ",
+  "ParentRef": "sUif-TArzUKQc-jN8Xx01Q/5Dxm-K1wukOcjYvqnBCrXQ",
+  "Created": "2025-05-29T17:30:20.5812714Z",
+  "Updated": "2025-05-29T17:30:20.5812714Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

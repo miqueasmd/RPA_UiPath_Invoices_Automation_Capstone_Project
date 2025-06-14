@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="w1pxGyI0GEukueJgiXq7EQ" Reference="9mj7wxFBpEOA6KG7HfSCVw/-aqUK2pw0EKIKqajJvfSWQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="www1.sedecatastro.gob.es/CYCBienInmueble/OVCConCiud.aspx" CVScreenId="ed5caee4-99d1-4ce7-a81d-e1bc73b91286" DesignTimeRectangle="692, 372, 44, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl innertext='Clase*' /&gt;&lt;webctrl tag='LABEL' /&gt;" Guid="927d3554-a30d-4cf5-82ca-37776c935332" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Sede Electrónica del Catastro - Consulta y certificación de Bien Inmueble' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="79dac7861959d652b53f2d69d775a9a8.png" xmlns="">0uO3uPYVp_k2Xsh8E3J3LUg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,2 @@
+﻿14:27:31 - Final_Project_Dispatcher execution started
+14:27:38 - Process ended successfully. Notification sent by email

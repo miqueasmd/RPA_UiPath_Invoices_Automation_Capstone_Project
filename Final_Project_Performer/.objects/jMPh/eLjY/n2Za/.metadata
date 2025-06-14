@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Sede Electrónica del Catastro - Búsqueda(1)",
+  "Type": "Screen",
+  "Id": "n2ZaLRBLPk-tQ2CoXgIJBQ",
+  "Reference": "9mj7wxFBpEOA6KG7HfSCVw/n2ZaLRBLPk-tQ2CoXgIJBQ",
+  "ParentRef": "9mj7wxFBpEOA6KG7HfSCVw/eLjY7QYO30SHcKW-epTt9g",
+  "Created": "2025-05-16T11:09:08.6340321Z",
+  "Updated": "2025-05-16T11:09:08.6340321Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

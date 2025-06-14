@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="R_XPcvSQjUSdwuMiGfbTuQ" Reference="9mj7wxFBpEOA6KG7HfSCVw/qjMSW31RXkyBgBlWJiccsg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Edge" ContentHash="LU19i2tlh06CsmFWpXG8sw" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABsSURBVDhPY2CgF/i/beZ/dAyRIAKA1CVIM/z/6YrAcAMaGhr+v3z5EiceXAYgY5wGgABIDBmDFeIC2AxAV/P/5c7/6BguSYwBPQkM//+fDEBgqhuAjlF0EzIAG0D3L8kGYGhAx0PDAHwY2QAA3mDfRqdnl80AAAAASUVORK5CYII=" Reference="9mj7wxFBpEOA6KG7HfSCVw/qjMSW31RXkyBgBlWJiccsg" Selector="&lt;html app='msedge.exe' title='Sede Electrónica del Catastro - Consulta y certificación de Bien Inmueble' /&gt;" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="6588f401c1eee7d8461e1787b2054df6.jpg" xmlns="">0HXaFKlex002IySEJ2K0Uig</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

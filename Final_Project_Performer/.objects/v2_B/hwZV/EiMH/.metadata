@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Sede Electrónica del Catastro - Consulta(1)",
+  "Type": "Screen",
+  "Id": "EiMHjSFMBUqkN4KXTydETQ",
+  "Reference": "9mj7wxFBpEOA6KG7HfSCVw/EiMHjSFMBUqkN4KXTydETQ",
+  "ParentRef": "9mj7wxFBpEOA6KG7HfSCVw/hwZVOu8f6EKn1fNI6GVqxA",
+  "Created": "2025-05-19T21:19:31.5309829Z",
+  "Updated": "2025-05-19T21:19:31.5309829Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

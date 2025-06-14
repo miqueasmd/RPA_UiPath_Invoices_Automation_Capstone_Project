@@ -1,0 +1,14 @@
+﻿{
+  "Name": "New mail Create a new e…",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "sw0WZ820XE6fojnekMz6Eg",
+  "Reference": "sUif-TArzUKQc-jN8Xx01Q/sw0WZ820XE6fojnekMz6Eg",
+  "ParentRef": "sUif-TArzUKQc-jN8Xx01Q/vB5FBteKd0eTshBlPM02jQ",
+  "Created": "2025-05-29T17:31:24.8923177Z",
+  "Updated": "2025-05-29T17:31:24.8923177Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

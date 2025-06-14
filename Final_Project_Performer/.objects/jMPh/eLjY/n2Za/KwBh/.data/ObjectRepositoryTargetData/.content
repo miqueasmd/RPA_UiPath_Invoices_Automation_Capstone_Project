@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dFVn7aHci0CkvARBWxg1Rg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="www1.sedecatastro.gob.es/CYCBienInmueble/OVCBusqueda.aspx" CVScreenId="f77d5d8f-7c01-4379-83b7-59f907dc7397" DesignTimeRectangle="465, 445, 404, 34" ElementType="InputBox" FullSelectorArgument="&lt;webctrl name='ctl00$Contenido$txtRC2' tag='INPUT' type='text' /&gt;" Guid="3b4d9bb4-9991-43b1-8c73-2e97f924d531" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Sede Electrónica del Catastro - Búsqueda de inmuebles' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="303, 446, 132, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" Guid="1ccfd862-8eb1-4951-a87c-ee47a81eab34" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f06ac09a04e195682d12800a58ed8fe0.png" xmlns="">0E69dC3xHQEaJ59fQDTcHEw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

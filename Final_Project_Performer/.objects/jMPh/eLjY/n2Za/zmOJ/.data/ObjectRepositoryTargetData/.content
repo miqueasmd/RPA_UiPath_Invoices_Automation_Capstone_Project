@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SdjEy_VSAUalb16cjR15EQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="www1.sedecatastro.gob.es/CYCBienInmueble/OVCBusqueda.aspx" CVScreenId="ac51840e-6d8f-4f24-a326-ecba499f6b38" DesignTimeRectangle="559, 614, 74, 34" ElementType="Button" FullSelectorArgument="&lt;webctrl name='ctl00$Contenido$btnDatos' tag='INPUT' type='submit' /&gt;" Guid="b65e059d-2653-4e23-a3b3-5d8d62498afe" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Sede Electrónica del Catastro - Búsqueda de inmuebles' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="51d9076a2c68c2f92316804531156b2c.png" xmlns="">0I4hyZSmJ9E-KJB1nAt9MVg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
